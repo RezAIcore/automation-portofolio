@@ -1,4 +1,4 @@
-# ⚡ Automation Portfolio
+images/.gitkeep# ⚡ Automation Portfolio
 
 Showcasing my projects in **AI & Automation** with clear **problem, solution, and result** documentation.  
 Semua project dibuat menggunakan tools yang accessible (Google Workspace, Notion, Make/Zapier, AI tools).
